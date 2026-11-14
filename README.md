@@ -1,4 +1,4 @@
-# Abhinav Sharma — Portfolio
+# Abhinav Sharma - Portfolio
 
 An immersive, animation-heavy portfolio built with **Next.js 16 (App Router)**, **TypeScript**, **Tailwind CSS v4**, **Motion** and **Lenis**, with a contact form that emails you through SMTP.
 
